@@ -1,8 +1,7 @@
 # hello-world
 learning setup for git hub 
 
-Final Commit changes by satish. change my mind.
-Not feeling to do work. Only sleep
+Final Commit dated 8/06/2017.
 
 Thanks and Regards,
 Satish Kumar Kesharwani
